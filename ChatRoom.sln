@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom", "ChatRoom\ChatRoom.csproj", "{A04E5A37-0994-40DC-90E3-DF0A2202E91F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoomClient", "ChatRoomClient\ChatRoomClient.csproj", "{699CC12A-735F-4D0D-AFC9-4DA211FBD757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "CommonLib\CommonLib.csproj", "{B605D507-221A-450D-8273-169C71E5DC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04E5A37-0994-40DC-90E3-DF0A2202E91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04E5A37-0994-40DC-90E3-DF0A2202E91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04E5A37-0994-40DC-90E3-DF0A2202E91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04E5A37-0994-40DC-90E3-DF0A2202E91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699CC12A-735F-4D0D-AFC9-4DA211FBD757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699CC12A-735F-4D0D-AFC9-4DA211FBD757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699CC12A-735F-4D0D-AFC9-4DA211FBD757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699CC12A-735F-4D0D-AFC9-4DA211FBD757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B605D507-221A-450D-8273-169C71E5DC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B605D507-221A-450D-8273-169C71E5DC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B605D507-221A-450D-8273-169C71E5DC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B605D507-221A-450D-8273-169C71E5DC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
